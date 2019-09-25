@@ -2,4 +2,4 @@ function sum(a,b)
 {
 	return a+b;
 }
-console.log(sum(8,9));
+console.log(sum(4,9));
