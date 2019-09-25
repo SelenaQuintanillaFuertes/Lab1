@@ -1,7 +1,5 @@
-function sum(N)
+function sum(a,b)
 {
-	a=Math.floor(N/10);
-	b=N%10;
 	return a+b;
 }
-console.log(sum(29));
+console.log(sum(8,6));
