@@ -6,4 +6,4 @@ function palindro(str){
       }
         return true;
 }
-      console.log(palindro("abba"));
+      console.log(palindro("abba"));//
